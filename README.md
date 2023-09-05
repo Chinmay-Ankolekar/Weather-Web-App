@@ -11,7 +11,7 @@ This is a simple weather app that allows users to get real-time weather informat
 ### Usage
 1. Clone this repository to your local machine:
 ```
-git clone 
+git clone https://github.com/Chinmay-Ankolekar/Weather-Web-App.git
 ```  
 2. Open the `index.html` file in your web browser using live server.
 3. To search for weather information in a different city, enter the city name in the search bar and click the search button.
